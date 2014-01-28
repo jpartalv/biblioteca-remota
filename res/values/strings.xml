@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Biblioteca Remota</string>
+    <string name="act_login_1">Debe acceder a su cuenta de Dropbox \n para poder utilizar la aplicación</string>
+    <string name="act_login_reintentar">Reintentar</string>
+    <string name="menu_ordenar_alfabeticamente">Ordenar por título</string>
+    <string name="menu_ordenar_fecha">Ordenar por fecha</string>
+</resources>
